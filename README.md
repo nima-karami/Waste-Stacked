@@ -25,10 +25,11 @@ I pursued this topic as my Master's thesis for academic and personal reasons.
 
 ![Slide16](https://user-images.githubusercontent.com/94768955/167949450-e346c925-0467-40bc-8c3e-89f984f7016a.jpg)
 
-![Slide14](https://user-images.githubusercontent.com/94768955/167949517-fa7541fd-2f85-4643-85a2-84d7c2a45374.jpg)
-
 
 ## Context:
+![Slide18](https://user-images.githubusercontent.com/94768955/167950896-fb20f592-5636-4a45-98e4-57f093dbb378.JPG)
+![Slide19](https://user-images.githubusercontent.com/94768955/167950897-74c3271b-6e23-4667-949a-54b2bc38814f.JPG)
+![Slide20](https://user-images.githubusercontent.com/94768955/167950898-0cbbd5b2-7d80-463a-9a1f-b66b393d8d86.JPG)
 
 ## State of The Art:
 
