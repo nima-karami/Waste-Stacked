@@ -20,6 +20,14 @@ I pursued this topic as my Master's thesis for academic and personal reasons.
 
 ## Scope:
 
+![Slide12](https://user-images.githubusercontent.com/94768955/167950225-ac328987-f4c8-4d89-b7a4-3957cf0856a7.jpg)
+
+
+![Slide16](https://user-images.githubusercontent.com/94768955/167949450-e346c925-0467-40bc-8c3e-89f984f7016a.jpg)
+
+![Slide14](https://user-images.githubusercontent.com/94768955/167949517-fa7541fd-2f85-4643-85a2-84d7c2a45374.jpg)
+
+
 ## Context:
 
 ## State of The Art:
