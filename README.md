@@ -32,8 +32,18 @@ I pursued this topic as my Master's thesis for academic and personal reasons.
 ![Slide20](https://user-images.githubusercontent.com/94768955/167950898-0cbbd5b2-7d80-463a-9a1f-b66b393d8d86.JPG)
 
 ## State of The Art:
+![Slide23](https://user-images.githubusercontent.com/94768955/167951538-74904808-01c8-4cae-9051-7f94cf723326.JPG)
+![Slide24](https://user-images.githubusercontent.com/94768955/167951540-cf189518-68ac-42fe-b320-6120d1881896.JPG)
+![Slide27](https://user-images.githubusercontent.com/94768955/167951542-3a5af7c6-7900-4ccd-ad88-aef932b0e4ef.JPG)
 
 ## Methods:
+![Slide32](https://user-images.githubusercontent.com/94768955/167970160-fe949777-2227-4919-a8d6-e5ea466f7eb3.JPG)
+![Slide34](https://user-images.githubusercontent.com/94768955/167970180-9bd4af74-a2ef-4427-a242-2f49adeb251b.JPG)
+![Slide35](https://user-images.githubusercontent.com/94768955/167970181-900892f0-3d9e-4e84-9c2e-d39d8491e06d.JPG)
+![Slide36](https://user-images.githubusercontent.com/94768955/167970183-3f563cd6-95a0-4c02-b3f5-2062286a2a50.JPG)
+![Slide48](https://user-images.githubusercontent.com/94768955/167970185-f9815bd3-0bb9-4d97-b256-0c9ef035a124.jpg)
+![Slide49](https://user-images.githubusercontent.com/94768955/167970186-28fd7a2d-8f53-42d9-85f9-9799e9c128af.jpg)
+
 
 ## Discussion:
 
