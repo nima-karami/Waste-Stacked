@@ -37,15 +37,46 @@ I pursued this topic as my Master's thesis for academic and personal reasons.
 ![Slide27](https://user-images.githubusercontent.com/94768955/167951542-3a5af7c6-7900-4ccd-ad88-aef932b0e4ef.JPG)
 
 ## Methods:
-![Slide32](https://user-images.githubusercontent.com/94768955/167970160-fe949777-2227-4919-a8d6-e5ea466f7eb3.JPG)
-![Slide34](https://user-images.githubusercontent.com/94768955/167970180-9bd4af74-a2ef-4427-a242-2f49adeb251b.JPG)
+![Experiment_1](https://user-images.githubusercontent.com/94768955/168403822-5431f266-90a8-4816-8321-7d1a5b620872.gif)
+
+
+![Slide32](https://user-images.githubusercontent.com/94768955/168403900-18bd7db4-2cc7-42d4-a6a1-6bc967023e40.JPG)
+![Slide34](https://user-images.githubusercontent.com/94768955/168403937-5aa76f4a-4476-4ff9-89b4-03cfae49df60.JPG)
 ![Slide35](https://user-images.githubusercontent.com/94768955/167970181-900892f0-3d9e-4e84-9c2e-d39d8491e06d.JPG)
 ![Slide36](https://user-images.githubusercontent.com/94768955/167970183-3f563cd6-95a0-4c02-b3f5-2062286a2a50.JPG)
 ![Slide48](https://user-images.githubusercontent.com/94768955/167970185-f9815bd3-0bb9-4d97-b256-0c9ef035a124.jpg)
+
+<div style="display:flex">
+  <img src="https://user-images.githubusercontent.com/94768955/168405130-edbb31ff-0133-46fd-8f43-6c82ebae1009.gif"  width="49.7%"/>
+  <img src="https://user-images.githubusercontent.com/94768955/168405281-d71b1b06-3c7f-4021-90cc-48636e57123e.gif" width="49.7%" /> 
+</div>
+  
 ![Slide49](https://user-images.githubusercontent.com/94768955/167970186-28fd7a2d-8f53-42d9-85f9-9799e9c128af.jpg)
+
+[![Waste-Stacked Video](https://user-images.githubusercontent.com/94768955/168406409-9dde7119-acda-422b-a116-8eca53906bbb.jpg)](https://youtu.be/86a6405RBSA)
 
 
 ## Discussion:
+![Object Placement Probability](https://user-images.githubusercontent.com/94768955/168405010-4d377089-f8df-4573-9ae7-ab6448a0310e.png)
+
+Challenges:
+NP-hard (Nondeterministic Polynomial-time hard) problem
+Real-time Optimization
+Inefficient Rigid-body Simulation
+Pandemic
+
+
+Computation:
+Replacing “Random Walk” orientation search with a better alternative
+Better Physics Simulation
+
+Robotic Fabrication:
+Developing an automatic 3d-scanning platform
+Developing a custom gripper for non-standard components
+
+Design:
+Double-curved Walls
+Dome
 
 
 2-Project Description
